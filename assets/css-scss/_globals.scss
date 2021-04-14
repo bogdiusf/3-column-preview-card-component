@@ -14,10 +14,8 @@ body{
     width: 1000px;
     height: 550px;
     margin: auto;
-    margin-top: 7.5%;
-    // min-height: 550px;
+    margin-top: 10%;
     overflow: hidden;
-    // height: 600px;
 
     &-col-1{
         flex: 1;
@@ -123,21 +121,21 @@ body{
 
 @media (max-width:375px){
     
-    body{
-        position: relative;
-    }
+    // body{
+    //     position: relative;
+    // }
     
     .flex{
-        display: grid;
+        display: block;
         width: 100%;
         position: absolute;
         padding: 20px;
-        // padding-right: 25px;
         margin: 0;
         height: auto;
 
         &-col-1{
             border-radius: 10px 10px 0 0;
+            height: auto;
         }
 
         &-col-3{

@@ -21,7 +21,7 @@ body {
   width: 1000px;
   height: 550px;
   margin: auto;
-  margin-top: 7.5%;
+  margin-top: 10%;
   overflow: hidden;
 }
 
@@ -142,12 +142,8 @@ body {
 }
 
 @media (max-width: 375px) {
-  body {
-    position: relative;
-  }
   .flex {
-    display: -ms-grid;
-    display: grid;
+    display: block;
     width: 100%;
     position: absolute;
     padding: 20px;
@@ -156,6 +152,7 @@ body {
   }
   .flex-col-1 {
     border-radius: 10px 10px 0 0;
+    height: auto;
   }
   .flex-col-3 {
     border-radius: 0 0 10px 10px;
