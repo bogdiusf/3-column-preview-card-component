@@ -55,8 +55,6 @@ Better understanding of css flexbox, grid and DOM manipulation with JS and JQuer
 - [W3Schools](https://www.w3schools.com/) - This helped me with deciding wether to use grid or flexbox
 - [StackOverflow](https://stackoverflow.com/) - This helped me with fixing elements positioning and centering
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
 - Frontend Mentor - [@bogdiusf](https://www.frontendmentor.io/profile/bogdiusf)
