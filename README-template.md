@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop view : [./desktop-view.png]
-- Mobile view : [./mobile-view.png]
-- Hover state view : [./hover-state-view.png]
+- Desktop view : [https://github.com/bogdiusf/3-column-preview-card-component/blob/master/desktop-view.png]
+- Mobile view : [https://github.com/bogdiusf/3-column-preview-card-component/blob/master/mobile-view.png]
+- Hover state view : [https://github.com/bogdiusf/3-column-preview-card-component/blob/master/hover-state-view.png]
 
 ### Links
 
