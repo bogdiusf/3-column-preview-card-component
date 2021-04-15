@@ -16,7 +16,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -34,8 +33,6 @@ Desktop view : [./desktop-view.png]
 Mobile view : [./mobile-view.png]
 Hover state view : [./hover-state-view.png]
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL: [https://github.com/bogdiusf/3-column-preview-card-component]
@@ -49,13 +46,9 @@ Hover state view : [./hover-state-view.png]
 - SCSS (for variables and nested designs) and CSS
 - @media query for mobile design
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### Continued development
 
 Better understanding of css flexbox, grid and DOM manipulation with JS and JQuery.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
@@ -67,5 +60,3 @@ Better understanding of css flexbox, grid and DOM manipulation with JS and JQuer
 ## Author
 
 - Frontend Mentor - [@bogdiusf](https://www.frontendmentor.io/profile/bogdiusf)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
