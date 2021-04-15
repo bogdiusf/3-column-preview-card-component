@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop view : [./desktop-view.png]
-Mobile view : [./mobile-view.png]
-Hover state view : [./hover-state-view.png]
+- Desktop view : [./desktop-view.png]
+- Mobile view : [./mobile-view.png]
+- Hover state view : [./hover-state-view.png]
 
 ### Links
 
