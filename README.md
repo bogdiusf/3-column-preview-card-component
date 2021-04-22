@@ -28,12 +28,15 @@ Users should be able to:
 
 ### Screenshot
 
--[Desktop view]
+
 ![](https://github.com/bogdiusf/3-column-preview-card-component/blob/master/desktop-view.png)
--[Mobile view]
+-[Desktop view]
+
 ![](https://github.com/bogdiusf/3-column-preview-card-component/blob/master/mobile-view.png)
--[Hover state view]
+-[Mobile view]
+
 ![](https://github.com/bogdiusf/3-column-preview-card-component/blob/master/hover-state-view.png)
+-[Hover state view]
 
 ### Links
 
